@@ -41,6 +41,7 @@ body {
 }
 
 #post {
+    background: white;
     padding: 1em;
 }
 
@@ -48,4 +49,5 @@ body {
     background: #777;
     color: white;
     text-align: center;
+    padding: 0.5em;
 }
